@@ -1,0 +1,2 @@
+# bugzilla-helppurr
+Bugzilla HelpPurr
